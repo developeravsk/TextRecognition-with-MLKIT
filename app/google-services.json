@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920572476402",
+    "firebase_url": "https://mlkittutorial.firebaseio.com",
+    "project_id": "mlkittutorial",
+    "storage_bucket": "mlkittutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920572476402:android:edacc297bf35572e",
+        "android_client_info": {
+          "package_name": "developerabhi.silpatechinnovations.mlkittutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920572476402-ati2ji9m7boaeod13pq21pbg4td0l6h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrg42fopCxq8BUycydUSi8rmTyODeoUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
